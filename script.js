@@ -12,5 +12,5 @@ function getFirstNames(names) {
   return firstNames;
 }
 
-const namesArray = [["John", "Doe"], ["Jane", "Smith"], ["Michael", "Johnson"]];
+const namesArray = [["Ahmed","Aisha","Amina"],["Jaamac","Khadijah","Layla"],["Mohamed","Ali"]]
 console.log(getFirstNames(namesArray)); 
